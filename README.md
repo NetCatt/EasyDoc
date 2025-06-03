@@ -61,7 +61,7 @@ The system includes features for both users and administrators, allowing for eff
 ### 1️⃣ Backend Setup
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/NetCatt/EasyDoc.git
 cd easydoc
 npm install
 ```
